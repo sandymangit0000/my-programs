@@ -1,7 +1,7 @@
 package hw;
 
 import java.util.Scanner;
-//Sam and Riya are fond of the "Delicious" restaurant. 
+//gokul and reka are fond of the "Delicious" restaurant. 
 //Sam will have his dinner in that restaurant on every 'i'th day. 
 //Riya will have her dinner on every 'j'th day. 
 //Find the day on which Sam and  Riya will have their dinner together in that restaurant.
