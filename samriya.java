@@ -6,6 +6,7 @@ import java.util.Scanner;
 //Riya will have her dinner on every 'j'th day. 
 //Find the day on which Sam and  Riya will have their dinner together in that restaurant.
 // When a day is less than or equal to zero, then display "<'i'th> to <'j'th> is not a valid interval".
+//super project
 public class samriya {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
